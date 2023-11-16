@@ -4,6 +4,7 @@
 - JSON Web Tokens (JWT)
 - BCrypt
 - Maven
+- Project lombok
 
 ## Функции
    - Регистрация и вход пользователей с помощью аутентификации JWT
